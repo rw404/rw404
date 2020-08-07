@@ -12,7 +12,7 @@ Hi there, I'm Michael([rw404](https://github.com/rw404)) :v:
   - [ ] finish developing bot
   - [ ] go to Tehnosphere
   - [ ] ~~learn~~ start learning c++ correctly
-+ :space_invader: I also love taking photos :camera: and playing :video_game: such **masterpieces** as The last of us (part 1, part 2), Death Stranding
++ :space_invader: I also love taking photos :camera:  and playing :video_game: such **masterpieces** as The last of us (part 1, part 2), Death Stranding
 
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rw404)](https://github.com/anuraghazra/github-readme-stats)
