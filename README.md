@@ -6,7 +6,7 @@
 [![Anurag's github
 stats](https://github-readme-stats.vercel.app/api?username=rw404&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe
-Card](https://github-readme-stats.vercel.app/api/pin/?username=rw404&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rw404)](https://github.com/anuraghazra/github-readme-stats)
 
 
