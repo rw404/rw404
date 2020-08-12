@@ -7,7 +7,7 @@ Hi there, I'm Michael([rw404](https://github.com/rw404)) :v:
 
 + :octocat: I am currently developing a telegram bot :speech_balloon:  with a [neural network](https://github.com/rw404/study/tree/master/personal/grokking_deep_learning) to write texts like Jack
   London :blue_book:
-+ :godmode: I love learning :raised_hands:
++ :godmode: I love studying :raised_hands:
 + :point_right: 2020 Goals: 
   - [ ] finish developing bot
   - [ ] go to Tehnosphere
