@@ -10,7 +10,6 @@ Hi there, I'm Michael([rw404](https://github.com/rw404)) :v:
 + :godmode: I love studying :raised_hands:
 + :point_right: 2020 Goals: 
   - [x] ~~finish developing bot~~ developped, but network is underfitted
-  ~~- [ ] go to Tehnosphere~~
   - [ ] ~~learn~~ start learning python correctly
   - [ ] start contirbuting to open source project
 + :space_invader: I am keen on taking photos :camera:
