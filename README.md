@@ -1,10 +1,3 @@
-```bash
-__        __   _                          _ 
-\ \      / /__| | ___ ___  _ __ ___   ___| |
- \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \ |
-  \ V  V /  __/ | (_| (_) | | | | | |  __/_|
-   \_/\_/ \___|_|\___\___/|_| |_| |_|\___(_)                                    
-```
 <p align="center">
   <br>
   <br>
@@ -16,8 +9,8 @@ __        __   _                          _
   <br>#c, #nasm, #c++, #python
   </samp><br>
   <br>
+  <img src="https://raw.githubusercontent.com/rw404/rw404/master/pics/rick.gif" width="300" />
   <br>
   <br>
-  <br> 
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="350" />
+  <br>
 </p>
